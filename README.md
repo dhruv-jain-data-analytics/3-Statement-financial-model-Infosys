@@ -1,95 +1,87 @@
-Infosys Financial Analysis & 3-Statement Financial Model
 
-Project Overview
-This project presents a comprehensive financial analysis of Infosys using a 3-Statement Financial Model. The analysis evaluates the company's revenue growth, profitability, cash flow generation, balance sheet strength, liquidity position, and key financial ratios to assess its overall financial health and long-term sustainability.
 
-Business Objective
-Analyze Infosys' historical financial performance.
-Evaluate profitability and operational efficiency.
-Assess liquidity, leverage, and financial stability.
-Examine cash flow quality and earnings sustainability.
-Generate actionable financial insights and recommendations.
+# Infosys Financial Statement Analysis & 3-Statement Model
 
-Tools Used
-Microsoft Excel
-Financial Modeling
-Ratio Analysis
-Financial Statement Analysis
-Data Visualization
+## Project Overview
+This project presents a comprehensive financial analysis of Infosys using a 3-Statement Financial Model. The analysis evaluates the Income Statement, Balance Sheet, Cash Flow Statement, and key financial ratios to assess the company's financial performance, stability, profitability, and growth prospects.
 
-Skills Demonstrated
-3-Statement Financial Modeling
-Financial Analysis
-Ratio Analysis
-Corporate Finance
-Working Capital Analysis
-Investment Research
-Financial Reporting
-Business Insight Generation
+## Business Objective
+- Analyze Infosys' financial performance across multiple years.
+- Evaluate revenue growth, profitability, and cash generation.
+- Assess liquidity, leverage, and shareholder returns.
+- Understand the company's financial strengths and risks.
+- Generate actionable business and investment insights.
 
-Revenue Analysis
-Revenue has demonstrated consistent growth over the years.
-Growth rates appear to be stabilizing, indicating a mature business stage.
-Strong revenue expansion highlights Infosys' market leadership and operational resilience.
-Profitability Analysis
-Profit margins remain strong and stable.
-The company continues to demonstrate efficient operations.
-Some margin pressure may emerge due to rising operating costs.
-Cash Flow Analysis
-Strong operating cash flows support business growth.
-Earnings are backed by real cash generation, indicating high-quality profits.
-A portion of cash reserves has been allocated toward long-term investments.
+## Tools Used
+- Microsoft Excel
+- Financial Modeling
+- Ratio Analysis
+- Financial Statement Analysis
+- Data Visualization
 
-Balance Sheet Analysis
-Low debt levels reflect a conservative capital structure.
-Strong cash reserves provide financial flexibility.
-The company maintains a healthy and stable financial position.
-Long-term assets have expanded significantly over the analysis period.
-Ratio Analysis
-Profitability
-ROE remains strong, indicating efficient use of shareholder capital.
-Stable profitability reflects effective business execution.
-Liquidity
-Liquidity ratios remain comfortable.
-The company faces minimal short-term financial stress.
+## Skills Demonstrated
+- 3-Statement Financial Modeling
+- Financial Analysis
+- Ratio Analysis
+- Corporate Finance
+- Business Valuation Concepts
+- Cash Flow Analysis
+- Investment Research
+- Financial Reporting
 
-Solvency
-Low leverage indicates limited financial risk.
-Strong balance sheet supports long-term stability.
+## Revenue Analysis
+- Revenue has shown consistent growth over the years.
+- Growth rates are gradually stabilizing, indicating a mature business model.
+- The company continues to expand while maintaining operational efficiency.
 
-Key Strengths
-Consistent revenue growth.
-Strong and stable profit margins.
-Healthy operating cash flows.
-Strong balance sheet and financial stability.
+## Profitability Insights
+- Strong and stable profit margins across the analysis period.
+- Efficient business operations support profitability.
+- Minor margin pressure observed due to rising operating costs.
 
-Risk Factors
-Growth rates are gradually slowing as the business matures.
-Margin pressure may arise from increasing costs.
-Dependence on global IT services demand can impact future growth.
+## Cash Flow Analysis
+- Strong operating cash flow generation.
+- Earnings are supported by real cash inflows, reflecting high earnings quality.
+- Significant cash reserves are allocated toward long-term investments.
 
-Key Findings
-Infosys remains fundamentally strong with consistent financial performance.
-Cash flow generation supports earnings quality.
-Financial leverage remains low, reducing risk exposure.
-The company is well-positioned for sustainable long-term growth.
+## Balance Sheet Insights
+- Very low debt levels indicate conservative financial management.
+- Strong cash position provides financial flexibility.
+- Long-term assets have expanded significantly over the years.
+- Overall financial position remains stable and healthy.
 
-Recommendations
-Continue focusing on operational efficiency to protect margins.
-Diversify revenue streams to reduce dependence on core IT services.
-Optimize capital allocation toward high-return investments.
-Maintain strong liquidity and conservative debt levels.
-Invest in emerging technologies and digital transformation services to support future growth.
+## Ratio Analysis
+### Profitability
+- Strong Return on Equity (ROE) indicates efficient shareholder value creation.
 
-Files Included
-3-Statement Financial Model (.xlsx)
-forecast summary (png)
-Ratio analysis summary (png)
-Project Documentation (README)
+### Liquidity
+- Comfortable liquidity position with no significant short-term financial stress.
 
-Conclusion
+### Solvency
+- Low leverage results in reduced financial risk.
 
-Infosys demonstrates strong financial stability, consistent growth, healthy cash flows, and a low-risk business profile. While growth may moderate as the company matures, its strong balance sheet and operational efficiency position it well for long-term value creation.
+### Margins
+- Slight decline in margins observed, but still within manageable levels.
 
-Author
-Dhruv Jain
+## Key Strengths
+- Consistent revenue growth.
+- Strong profitability.
+- Healthy cash flow generation.
+- Stable financial position.
+
+## Key Risks
+- Slowing growth rates as the business matures.
+- Potential margin pressure from rising costs.
+- Dependence on overall IT industry demand.
+
+## Conclusion
+Infosys demonstrates strong financial stability, healthy profitability, and robust cash flow generation. The company maintains a low-risk balance sheet with strong liquidity and shareholder returns. While growth rates are moderating as the business matures, the overall financial position remains solid with moderate future growth potential.
+
+## Repository Contents
+- Financial Model (.xlsx)
+- Preview.Ratio analysis (.pmg)
+- preview.Forecasting (.png)
+- Documentation (Readme)
+
+## Author
+-Dhruv Jain
